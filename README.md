@@ -13,25 +13,27 @@ This is source code of a telegram bot which is used to search a particular song 
 
 ### How to Use?
 
-Permission from Frappe is required to use the ERPNext name or logo as part of any project, product, service, domain or company name.
-
-We will grant permission to use the ERPNext name and logo for projects that meet the following criteria:
-
-- The primary purpose of your project is to promote the spread and improvement of the ERPNext software.
-- Your project is non-commercial in nature (it can make money to cover its costs or contribute to non-profit entities, but it cannot be run as a for-profit project or business).
-Your project neither promotes nor is associated with entities that currently fail to comply with the GPL license under which ERPNext is distributed.
-- If your project meets these criteria, you will be permitted to use the ERPNext name and logo to promote your project in any way you see fit with one exception: Please do not use ERPNext as part of a domain name.
-
-Use of the ERPNext name and logo is additionally allowed in the following situations:
-
-All other ERPNext-related businesses or projects can use the ERPNext name and logo to refer to and explain their services, but they cannot use them as part of a product, project, service, domain, or company name and they cannot use them in any way that suggests an affiliation with or endorsement by ERPNext or Frappe Technologies or the ERPNext open source project. For example, a consulting company can describe its business as “123 Web Services, offering ERPNext consulting for small businesses,” but cannot call its business “The ERPNext Consulting Company.”
-
-Similarly, it’s OK to use the ERPNext logo as part of a page that describes your products or services, but it is not OK to use it as part of your company or product logo or branding itself. Under no circumstances is it permitted to use ERPNext as part of a top-level domain name.
-
-We do not allow the use of the trademark in advertising, including AdSense/AdWords.
-
-Please note that it is not the goal of this policy to limit commercial activity around ERPNext. We encourage ERPNext-based businesses, and we would love to see hundreds of them.
-
-When in doubt about your use of the ERPNext name or logo, please contact Frappe Technologies for clarification.
-
-(inspired by WordPress)
+#### Get Telegram Bot Token From BotFather
+    <div align = "center">
+    <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfather.png">
+    </div>
+    
+    
+    **Step 1.** Find telegram bot named [@botfather](https://t.me/botfather), he will help you with creating and managing your bot.
+    
+    
+    **Step 2.** Print “/help” and you will see all possible commands that the botfather can operate.
+    
+    
+    **Step 3.** To create a new bot type “/newbot” or click on it.
+    
+    Follow instructions he given and create a new name to your bot. If you are making a bot only for experimentation, as it has to be a unique name, you can use         namespace your bot by placing your name before it in its username. By the way, its screen name can be anything you like.
+        <div align = "center">
+        <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfathermsg.png">
+        </div>
+    
+    **Step 4.** Congratulations! You've just created your Telegram bot. You will see a new API token generated for it.
+    In sample above it's 270485614:AAHfiqksKZ8WmR2zSjiQ7_v4TMAKdiHm9T0
+    
+    
+    **Copy your API token to the variable called "bot_token".**

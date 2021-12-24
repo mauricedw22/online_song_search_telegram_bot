@@ -13,7 +13,7 @@ This is source code of a telegram bot which is used to search a particular song 
 
 ### How to Use?
 
-#### Get Telegram Bot Token From BotFather
+#### 1. Get Telegram Bot Token From BotFather
 
 <div align = "center">
     <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfather.png">
@@ -38,3 +38,24 @@ This is source code of a telegram bot which is used to search a particular song 
     
     
 **Copy your API token to the variable called "bot_token".**
+
+
+#### 2. Clone This Repository.
+
+```bash
+git clone git@github.com:lakebrains-technologies/online_song_search_telegram_bot.git
+```
+
+#### 3. Install The Packages.
+
+```bash
+cd online_song_search_telegram_bot/song_searchhh_bot
+npm install
+```
+
+
+#### 4. Run Bot.
+
+```bash
+node main.js
+```

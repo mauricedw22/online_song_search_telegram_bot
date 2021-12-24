@@ -1,20 +1,15 @@
 <div align="center">
     <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/tbot.png" height="128">
     <h2>Online Song Search Telegram Bot</h2>
-    <p align="center">
-        <p>Learn to develop telegram bot</p>
-    </p>
-   </div>
+</div>
 
 ### Introduction
 
-Frappe Technologies Pvt. Ltd. (Frappe) owns and oversees the trademarks for the ERPNext name and logos. We have developed this trademark usage policy with the following goals in mind:
+This is source code of a telegram bot which is used to search a particular song on various platforms  and provide links. It also provide a mp3 file of the song.
+    <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/intro.png" height="128">
+    
 
-- We’d like to make it easy for anyone to use the ERPNext name or logo for community-oriented efforts that help spread and improve ERPNext.
-- We’d like to make it clear how ERPNext-related businesses and projects can (and cannot) use the ERPNext name and logo.
-- We’d like to make it hard for anyone to use the ERPNext name and logo to unfairly profit from, trick or confuse people who are looking for official ERPNext resources.
-
-### Frappe Trademark Usage Policy
+### How to Use?
 
 Permission from Frappe is required to use the ERPNext name or logo as part of any project, product, service, domain or company name.
 

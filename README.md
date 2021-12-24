@@ -1,9 +1,9 @@
 <div align="center">
     <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/tbot.png" height="128">
-    <h2>Online Song Search Telegram Bot</h2>
+    <h1>Online Song Search Telegram Bot</h1>
 </div>
 
-### Introduction
+## Introduction
 
 This is source code of a telegram bot which is used to search a particular song on various platforms  and provide links. It also provide a mp3 file of the song.
     <div align = "center">
@@ -11,9 +11,13 @@ This is source code of a telegram bot which is used to search a particular song 
     </div>
     
 
-### How to Use?
+## How to Use?
 
-#### 1. Get Telegram Bot Token From BotFather
+### Prerequisites
+It is presumed that you have installed nodejs and npm on your system.
+
+
+### 1. Get Telegram Bot Token From BotFather
 
 <div align = "center">
     <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfather.png">
@@ -40,13 +44,13 @@ This is source code of a telegram bot which is used to search a particular song 
 **Copy your API token to the variable called "bot_token".**
 
 
-#### 2. Clone This Repository.
+### 2. Clone This Repository.
 
 ```bash
 git clone git@github.com:lakebrains-technologies/online_song_search_telegram_bot.git
 ```
 
-#### 3. Install The Packages.
+### 3. Install The Packages.
 
 ```bash
 cd online_song_search_telegram_bot/song_searchhh_bot
@@ -54,8 +58,13 @@ npm install
 ```
 
 
-#### 4. Run Bot.
+### 4. Run Bot.
 
 ```bash
 node main.js
 ```
+
+## Output
+        <div align = "center">
+        <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfather.gif">
+        </div>

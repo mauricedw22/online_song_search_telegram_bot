@@ -66,5 +66,5 @@ node main.js
 
 ## Output
 <div align = "center">
-  <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfather.gif">
+  <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfather.gif" width="459">
 </div>

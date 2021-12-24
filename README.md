@@ -15,26 +15,26 @@ This is source code of a telegram bot which is used to search a particular song 
 
 #### Get Telegram Bot Token From BotFather
 
-    <div align = "center">
+<div align = "center">
     <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfather.png">
-    </div>
+</div>
     
     
-    **Step 1.** Find telegram bot named [@botfather](https://t.me/botfather), he will help you with creating and managing your bot.
+ **Step 1.** Find telegram bot named [@botfather](https://t.me/botfather), he will help you with creating and managing your bot.
     
     
-    **Step 2.** Print “/help” and you will see all possible commands that the botfather can operate.
+ **Step 2.** Print “/help” and you will see all possible commands that the botfather can operate.
     
     
-    **Step 3.** To create a new bot type “/newbot” or click on it.
+ **Step 3.** To create a new bot type “/newbot” or click on it.
     
-    Follow instructions he given and create a new name to your bot. If you are making a bot only for experimentation, as it has to be a unique name, you can use         namespace your bot by placing your name before it in its username. By the way, its screen name can be anything you like.
+ Follow instructions he given and create a new name to your bot. If you are making a bot only for experimentation, as it has to be a unique name, you can use         namespace your bot by placing your name before it in its username. By the way, its screen name can be anything you like.
         <div align = "center">
         <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/botfathermsg.png">
         </div>
     
-    **Step 4.** Congratulations! You've just created your Telegram bot. You will see a new API token generated for it.
+ **Step 4.** Congratulations! You've just created your Telegram bot. You will see a new API token generated for it.
     In sample above it's 270485614:AAHfiqksKZ8WmR2zSjiQ7_v4TMAKdiHm9T0
     
     
-    **Copy your API token to the variable called "bot_token".**
+**Copy your API token to the variable called "bot_token".**

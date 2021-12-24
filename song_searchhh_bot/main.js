@@ -4,7 +4,12 @@ const ffmpegPath = require('@ffmpeg-installer/ffmpeg').path;
 var ffmpeg = require('fluent-ffmpeg');
 const puppeteer = require('puppeteer');
 const { Telegraf } = require('telegraf');
-const bot = new Telegraf('<your_telegram_bot_token>');
+
+
+let bot_token = '<your_telegram_bot_token>'
+
+
+const bot = new Telegraf(bot_token);
 bot.command('start', ctx => {
     console.log(ctx.update.message.text)
     bot.telegram.sendMessage(ctx.chat.id, 'hello there! Send me any song name...', {

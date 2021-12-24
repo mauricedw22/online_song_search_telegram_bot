@@ -6,9 +6,9 @@
 ### Introduction
 
 This is source code of a telegram bot which is used to search a particular song on various platforms  and provide links. It also provide a mp3 file of the song.
-    
+    <div align = "center">
     <img src="https://github.com/lakebrains-technologies/online_song_search_telegram_bot/blob/main/assets/intro.png">
-    
+    </div>
     
 
 ### How to Use?
